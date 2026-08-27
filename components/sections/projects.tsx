@@ -1,7 +1,6 @@
 import { projects } from "@/data/portfolio";
 import { SectionHeader } from "../section-header";
 import { ProjectCard } from "./project-card";
-import { Heatmap } from "./heatmap";
 
 export function Projects() {
   return (
@@ -15,7 +14,6 @@ export function Projects() {
           ))}
         </div>
 
-        <Heatmap />
       </div>
     </section>
   );

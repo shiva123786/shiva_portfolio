@@ -71,5 +71,4 @@ URLs, email, and project repo/demo links there. Add your resume PDF at
 - Parallax hero (mouse-driven grid + floating orbs on different float cycles)
 - Sticky navbar with blur-on-scroll
 - Infinite tech marquee, pauses on hover, gradient fade edges
-- GitHub-style contribution heatmap with hover scale
 - All motion respects `prefers-reduced-motion`

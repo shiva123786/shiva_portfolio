@@ -1,7 +1,7 @@
 "use client";
 
 import { useEffect, useRef } from "react";
-import { Download, Mail } from "lucide-react";
+import { Download, Mail, Code2 } from "lucide-react";
 import { profile } from "@/data/portfolio";
 import { GithubIcon, LinkedinIcon } from "../brand-icons";
 import { Typewriter } from "../typewriter";
@@ -66,7 +66,7 @@ export function Hero() {
           </div>
 
           <h1 className="text-5xl font-bold tracking-tight sm:text-7xl">
-            <SplitText text="Kethavath Shiva" startDelay={60} />
+            <SplitText text="Kethavath " startDelay={60} />
             <span className="gradient-text">
               <SplitText text="Shiva" startDelay={60 + "Kethavath ".length * 28} />
             </span>
@@ -117,6 +117,15 @@ export function Hero() {
               className="magnetic text-text-muted transition-all hover:scale-110 hover:text-accent"
             >
               <LinkedinIcon />
+            </a>
+            <a
+              href="https://leetcode.com/u/SHIVA_KETHAVATH/"
+              target="_blank"
+              rel="noreferrer"
+              aria-label="LeetCode"
+              className="magnetic text-text-muted transition-all hover:scale-110 hover:text-accent"
+            >
+              <Code2 size={18} />
             </a>
             <span className="hidden font-mono text-xs text-text-faint sm:inline">Move your cursor ✦</span>
           </div>
