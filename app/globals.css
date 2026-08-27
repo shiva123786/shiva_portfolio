@@ -32,7 +32,6 @@ html.light {
   --accent-glow: rgba(13, 148, 136, 0.25);
 }
 
-<<<<<<< HEAD
 html, body {
   overflow-x: hidden;
   max-width: 100vw;
@@ -45,8 +44,6 @@ html {
   -webkit-text-size-adjust: 100%;
 }
 
-=======
->>>>>>> 80d4a03401acb6b6886b77480e59e357ca07875a
 * { scroll-behavior: smooth; }
 
 body {
