@@ -66,7 +66,7 @@ export function Hero() {
           </div>
 
           <h1 className="text-5xl font-bold tracking-tight sm:text-7xl">
-            <SplitText text="Kethavath " startDelay={60} />
+            <SplitText text="Kethavath Shiva " startDelay={60} />
             <span className="gradient-text">
               <SplitText text="Shiva" startDelay={60 + "Kethavath ".length * 28} />
             </span>
