@@ -121,28 +121,36 @@ export const projects: Project[] = [
 
 export const experience = [
   {
+    role: "AI Developer Intern",
+    org: "Viswam.AI",
+    period: "June 2025 — July 2025",
+    description:
+      "Worked on AI-driven solutions, applying machine learning and artificial intelligence concepts to practical development tasks and real-world problems.",
+    tags: ["Artificial Intelligence", "Machine Learning"],
+  },
+  {
+    role: "Data Analytics & Science Intern",
+    org: "Future Interns",
+    period: "August 2025 — September 2025",
+    description:
+      "Worked on data analytics and data science tasks involving data analysis, visualization, and extracting meaningful insights to support better decision-making.",
+    tags: ["Data Analytics", "Data Science"],
+  },
+  {
+    role: "Web Developer Intern",
+    org: "The Developer Arena",
+    period: "November 2025 — February 2026",
+    description:
+      "Worked on web development projects, building responsive applications and strengthening full-stack development skills using modern web technologies.",
+    tags: ["Web Development", "Full Stack"],
+  },
+  {
     role: "AI & Data Science Student",
     org: "Chaitanya Bharathi Institute of Technology",
     period: "2023 — Present",
     description:
-      "Pursuing B.E. in AI & Data Science (CGPA 8.61/10). Building end-to-end AI systems spanning security, computer vision, analytics, and full-stack applications.",
+      "Pursuing B.E. in Artificial Intelligence and Data Science with a CGPA of 8.61/10, developing skills across AI, machine learning, data analytics, computer vision, and full-stack development.",
     tags: ["AI & Data Science", "CGPA 8.61"],
-  },
-  {
-    role: "Technical Club Member — Spandana",
-    org: "Chaitanya Spandana Club",
-    period: "2023 — Present",
-    description:
-      "Organizing social-responsibility initiatives and technical events. Leading teams, coordinating logistics, and driving community engagement.",
-    tags: ["Leadership", "Community"],
-  },
-  {
-    role: "PR & Social Media — Ramanujan Math Club",
-    org: "Ramanujan Math Club",
-    period: "2023 — Present",
-    description:
-      "Managing public relations and social media outreach for the mathematics club, growing engagement across events and campaigns.",
-    tags: ["PR", "Social Media"],
   },
 ];
 
