@@ -107,6 +107,25 @@ export const projects: Project[] = [
     demo: null,
   },
   {
+  id: "ai-gold-assessment",
+  name: "AI-Gold-Assessment-Platform",
+  subtitle: "AI-Powered Remote Gold Assessment for Lending",
+  description:
+    "Multimodal AI system for remote gold jewelry assessment using computer vision and audio processing to estimate weight, purity, and authenticity risk for gold lending.",
+  features: [
+    "Jewelry type classification",
+    "Hallmark detection",
+    "Weight and purity estimation",
+    "Audio-based material analysis",
+    "Multimodal AI fusion",
+    "Fraud risk detection",
+    "Confidence scoring"
+  ],
+  tech: ["Python", "Computer Vision", "Deep Learning", "Audio Processing", "Machine Learning"],
+  github: "https://github.com/shiva123786/AI-Gold-Assessment-Platform",
+  demo: null,
+},
+  {
     id: "expenseowl",
     name: "ExpenseOwl",
     subtitle: "Personal Finance Tracker",
