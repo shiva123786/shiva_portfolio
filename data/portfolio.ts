@@ -53,7 +53,7 @@ export const projects: Project[] = [
   {
     id: "cloudsentinel",
     name: "CloudSentinel",
-    subtitle: "Autonomous Zero Trust AI Firewall",
+    subtitle: "Autonomous Zero Trust AI Firewall In Progress",
     description:
       "AI-powered cloud security platform implementing continuous authentication, anomaly detection, and intelligent threat analysis with risk scoring and automated access control.",
     features: ["Continuous authentication", "Anomaly detection", "Risk scoring", "Automated alerts", "Access control"],
